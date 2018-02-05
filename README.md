@@ -1,5 +1,5 @@
 # hello-world
 
 
-This is trule ly the first thing I am learnign about Github?
-Mmm. Interesting.
+This is truly the first thing I am learning about Github?
+Mmm. Interesting!
